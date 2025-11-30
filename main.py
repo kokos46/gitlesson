@@ -1,4 +1,6 @@
 print("helloasdfasdasdasdf world!")
 
-a = int(input("Введиasdfasdfте число: "))
-print(a)
+
+a = int(input("Введите числооооооооо: "))
+print(a/2)
+
