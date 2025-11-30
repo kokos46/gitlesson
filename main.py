@@ -1,4 +1,4 @@
 print("helloasdfasdasdasdf world!")
 
-a = int(input("Введите число: "))
+a = int(input("Введиasdfasdfте число: "))
 print(a)
